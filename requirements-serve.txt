@@ -1,0 +1,4 @@
+# serving + eval env (venv: .venv-serve). vLLM pins its own torch -> keep it separate.
+vllm
+openai>=1.40
+rapidfuzz>=3.0

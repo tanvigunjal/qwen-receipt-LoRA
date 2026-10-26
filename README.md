@@ -1,4 +1,4 @@
-# qwen-receipt-lora
+# qwen-receipt-LoRA
 
 Fine-tune **Qwen3-4B-Instruct-2507** with **LoRA / QLoRA** to turn scanned-receipt OCR text into
 structured JSON, then serve the base model and several adapters from one **vLLM** server
